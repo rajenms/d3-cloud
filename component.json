@@ -1,0 +1,10 @@
+{
+  "name": "d3cloud",
+  "version": "1.0.1",
+  "main": "d3.layout.cloud.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
