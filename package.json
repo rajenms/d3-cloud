@@ -23,6 +23,6 @@
     "canvas": "0.10.x"
   },
   "devDependencies": {
-    "uglify-js": "1.2.x"
+    "uglify-js": "2.6.x"
   }
 }
